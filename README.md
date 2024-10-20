@@ -1,5 +1,5 @@
-# 436hw2
-436HW2:How is your day?
+# Your Tarot Reading🔮 using shiny app & r 
+Minliang Yu 
 
 
 *INTRO
