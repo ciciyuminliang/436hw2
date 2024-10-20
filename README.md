@@ -1,7 +1,7 @@
 # Your Tarot Reading🔮 using Shiny App & R 
 Minliang Yu 
 
-🔮https://628nodie.shinyapps.io/436hw2/🔮
+🔮https://628nodie.shinyapps.io/436hw2/ 
 
 *INTRO
 This Tarot card reading application allows you to choose either one card for an overall fortune, 
