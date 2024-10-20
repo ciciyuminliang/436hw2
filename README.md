@@ -19,4 +19,3 @@ If you have some questions,please feel free to contact myu259@wisc.edu
 *Acknowledgements
 The original version of the Rider–Waite Tarot is in the public domain in all countries that have a copyright term of 70 years or fewer after the death of the last co-author.https://en.wikipedia.org/wiki/Rider-Waite_tarot_deck#Copyright_status
 
-This project is available as open source under the terms of the MIT License.http://opensource.org/licenses/MIT
