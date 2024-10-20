@@ -1,5 +1,7 @@
 # 436hw2
 436HW2:How is your day?
+
+
 *INTRO
 This Tarot card reading application allows you to choose either one card for an overall fortune, 
 or three cards representing your Past, Present, and Future. The cards are drawn randomly from 
